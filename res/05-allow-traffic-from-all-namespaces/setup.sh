@@ -5,4 +5,4 @@ kubectl run web --image=nginx \
     --namespace secondary \
     --labels=app=web --expose --port 80
 
-kubectl apply web-allow-all-namespaces.yaml
+kubectl apply -f web-allow-all-namespaces.yaml
