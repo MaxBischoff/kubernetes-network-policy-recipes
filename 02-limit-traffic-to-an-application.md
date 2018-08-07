@@ -8,7 +8,7 @@ certain Pods.
   to use it.
 - Restrict connections to a database only to the application using it.
 
-![Diagram of LIMIT traffic to an application policy](../img/2.gif)
+![Diagram of LIMIT traffic to an application policy](img/2.gif)
 
 ### Example
 
